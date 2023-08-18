@@ -1,0 +1,6 @@
+number1=int(input("value\n"))
+number2=int(input("value\n"))
+number3=int(input("value\n"))
+average=(number1+number2+number3)
+print(average)
+
